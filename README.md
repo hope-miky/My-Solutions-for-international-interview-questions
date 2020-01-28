@@ -1,2 +1,1 @@
-# Leetcode-solutions
-My solutions for diffrent leetcode questions 
+# My-Solutions-for-international-interview-questions
